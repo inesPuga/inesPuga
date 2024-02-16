@@ -1,6 +1,6 @@
 <h1>Hello, I'm Inês Puga Alves !</h1>
 
-I'm a Junior Software Engineer and I'm working as a full stack developer.
+I'm a software developer passionate about solving problems and learning new technologies.
 
 <hr>
 
