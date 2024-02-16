@@ -1,7 +1,6 @@
 <h1>Hello, I'm Inês Puga Alves !</h1>
 
-I'm currently studying computer engineering & working on frontend & mobile. 
-In the future I want to explore backend.
+I'm a Junior Software Engineer and I'm working as a full stack developer.
 
 <hr>
 
