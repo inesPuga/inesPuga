@@ -4,4 +4,4 @@ Hello, my name is Inês Puga & I'm a Software Engineer in Portugal.
 
 - I'm currently working on something really cool 🌿.
 - I like cycling & football ⚽️.
-- I love travelling, reading and listening to music 🎧.
+- I love travelling, reading & listening to music 🎧.
